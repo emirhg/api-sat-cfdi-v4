@@ -12,20 +12,10 @@ Haciendo uso de Selenium (librería de Python para interactuar mediante código 
 
 ### Desarrolladores
 
-#### Ruta de trabajo
-
-TODO: Listado de los requerimientos mínimos del sistema
-TODO: Implementar código base en Python para ejecutar Selenium con la ruta inicial
-TODO: Documentar la navegación requerida en el portal del SAT para emitir un CFDI
-TODO: Documentar los objetos de datos requeridos para emitir un CFDI
-TODO: Parametrizar la lectura de la llave pública para emitir firma electrónica
-TODO: Emitir CFDI
-TODO: Cancelar CFDI
-
+Desarrollar pruebas unitarias de los cambios realizados y verificar que dichos cambios no rompan las pruebas existentes
 
 ### Financiamiento
 
 Las contribuciones financieras son bienvenidas através del portal Ko-fi
 
 https://ko-fi.com/pasantedetic
-
